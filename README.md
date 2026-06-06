@@ -19,14 +19,6 @@ i'm a catgirl researcher in ai / infosec, game dev and content creation～☆
 </p>
 
 <p align="center">
-  <strong><a href="https://hiro.com">Website</a></strong> |
-  <strong><a href="https://x.com/hiro">Twitter</a></strong> |
-  <strong><a href="https://bsky.app/profile/hiro.com">Bluesky</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://hiro.com/hiro.asc">PGP</a></strong>
-</p>
-
-<p align="center">
   <a href="https://octo-ring.com/p/hiro/prev">&larr;</a>
   <a href="https://octo-ring.com">Octo Ring</a>
   <a href="https://octo-ring.com/p/hiro/random">🎲</a>
